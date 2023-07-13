@@ -1,3 +1,11 @@
 build/
 /tags
 /bazel-*
+
+bin/
+bin-int/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+**/imgui.ini
